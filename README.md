@@ -6,17 +6,5 @@ The formalization of best practices and procedures that allow cloud-based platfo
 ## Table of Contents
 - [Needs Statement and Purpose](./needs-statement-and-purpose.md)
   * [Scope](./needs-statement-and-purpose.md#scope)
-    + [Why CloudOps Now at OCI?](needs-statement-and-purpose#scope)
+    + [Why CloudOps Now at OCI?](./needs-statement-and-purpose.md##why-cloudops-now-at-oci)
 
-
-
-
-
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-    
-    
