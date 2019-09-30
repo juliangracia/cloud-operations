@@ -4,8 +4,8 @@ The formalization of best practices and procedures that allow cloud-based platfo
 ![Six Pillars](./images/six-pillars.png "Six Pillars")
 
 ## Table of Contents
-- [Needs Statement and Purpose](needs-statement-and-purpose)
-  * [Scope](needs-statement-and-purpose#scope)
+- [Needs Statement and Purpose](./needs-statement-and-purpose.md)
+  * [Scope](./needs-statement-and-purpose.md#scope)
     + [Why CloudOps Now at OCI?](needs-statement-and-purpose#scope)
 
 
