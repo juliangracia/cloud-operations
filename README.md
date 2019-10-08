@@ -1,7 +1,7 @@
 # CloudOps or Cloud Operations
 The formalization of best practices and procedures that allow cloud-based platforms, and applications and data that live there, to function well over a long duration of time.
 
-![Six Pillars](./images/cloud-management-platform-capabilities.png "Cloud Management Platform Capabilities")
+![Cloud Management Platform Capabilities](./images/cloud-management-platform-capabilities.png "Cloud Management Platform Capabilities")
 
 ## Table of Contents
 - [Needs Statement and Purpose](./needs-statement-and-purpose.md)
